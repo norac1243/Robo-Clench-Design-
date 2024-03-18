@@ -1,2 +1,2 @@
 # Robo-Clench-Design-
-This Robo Clench Design was made for a competition 
+The robo clench design was created for an informal competition hosted by BHP Goa on January 16, 2022.
