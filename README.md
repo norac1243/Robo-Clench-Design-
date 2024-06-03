@@ -4,7 +4,7 @@ Objective: Make a clench mechanism to pick up cubical boxes in a clench bot aren
 <br><br>
 Design Drawings for each part of the Clench:
 <br>
-1. Paralledl Gripper<br>
+1. Parallel Gripper<br>
 ![Parallel Gripper](https://github.com/norac1243/Robo-Clench-Design----Parellel-Gripper-with-360-degree-turn/blob/main/Parallel%20Gripper.jpg) <br>
 2. Components facilitating 360 degree turning in clench bot <br> 
 ![360 degree components](https://github.com/norac1243/Robo-Clench-Design----Parellel-Gripper-with-360-degree-turn/blob/main/Components%20Facilitating%20360%20Degree%20turn%20of%20clench.jpg) <br>
